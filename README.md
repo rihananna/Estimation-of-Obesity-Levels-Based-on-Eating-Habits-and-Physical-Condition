@@ -1,5 +1,5 @@
 # Estimation-of-Obesity-Levels-Based-on-Eating-Habits-and-Physical-Condition
-#@ Obesity Level Prediction Model
+## Obesity Level Prediction Model
 This project is a machine learning application that predicts an individual's obesity level based on various lifestyle and health characteristics. Using a dataset with demographic and health information, we developed, evaluated, and deployed machine learning models to classify obesity levels.
 
 ## Project Overview
